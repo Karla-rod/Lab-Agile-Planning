@@ -8,16 +8,19 @@ assignees: ''
 ---
 
 **As a** [role]  
-     **I need** [function]  
-     **So that** [benefit]  
-       
-     ### Details and Assumptions
-     * [document what you know]
-       
-     ### Acceptance Criteria  
-       
-     ```gherkin
-     Given [some context]
-     When [certain action is taken]
-     Then [the outcome of action is observed]
-     ```
+**I need** [function or feature]  
+**So that** [benefit or reason]  
+
+---
+
+### Details and Assumptions  
+- [Briefly describe what is known, context, or technical notes]  
+- [Include edge cases or constraints if any]  
+
+---
+
+### Acceptance Criteria  
+
+- **Given** [some initial context]  
+- **When** [an action is performed]  
+- **Then** [an expected result should occur]
